@@ -3,7 +3,7 @@
 <div id="mainC">
   <div class="message">
     <h1>404</h1>
-    <h3>The page you seek does not exist</h3>
+    <h3>The page you seek does not exist,</h3>
   </div>
   <div class="footer">
    
